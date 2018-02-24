@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2017)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: report.aux
+The style file: ACM-Reference-Format.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: report.bib
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--empty chapter and pages in editor00
+You've used 1 entry,
+            5758 wiz_defined-function locations,
+            1317 strings with 15407 characters,
+and the built_in function-call counts, 916 in all, are:
+= -- 82
+> -- 21
+< -- 0
++ -- 6
+- -- 8
+* -- 62
+:= -- 100
+add.period$ -- 5
+call.type$ -- 1
+change.case$ -- 6
+chr.to.int$ -- 1
+cite$ -- 2
+duplicate$ -- 87
+empty$ -- 63
+format.name$ -- 8
+if$ -- 180
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 1
+newline$ -- 50
+num.names$ -- 9
+pop$ -- 34
+preamble$ -- 1
+purify$ -- 14
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 64
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 15
+warning$ -- 1
+while$ -- 8
+width$ -- 0
+write$ -- 59
+(There was 1 warning)
