@@ -6,47 +6,152 @@ Reallocated singl_function (elt_size=4) to 100 items from 50.
 Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
 Database file #1: report.bib
 Reallocated singl_function (elt_size=4) to 100 items from 50.
+Warning--no key, author in kaggle-kkbox-challenge
+Warning--no author, editor, organization, or key in kaggle-kkbox-challenge
+Warning--to sort, need author or key in kaggle-kkbox-challenge
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3085 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3131 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3131 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3131 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3131 of file ACM-Reference-Format.bst
+Warning--no key, author in kaggle-kkbox-challenge
+Warning--no key, author in kaggle-kkbox-challenge
 Reallocated singl_function (elt_size=4) to 100 items from 50.
-Warning--empty chapter and pages in editor00
-You've used 1 entry,
+Warning--no key, author in kaggle-kkbox-challenge
+Warning--no author, editor, organization, or key in kaggle-kkbox-challenge
+Warning--empty author in kaggle-kkbox-challenge
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Name 1 in "Badrul, S., George, K., Joseph, K., and John R." has a comma at the end for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Badrul, S., George, K., Joseph, K., and John R." for entry item-basd-cf
+while executing---line 3229 of file ACM-Reference-Format.bst
+Warning--no number and no volume in item-basd-cf
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Name 1 in "Breesem, J. S., Heckerman, D., and Kadie, C." has a comma at the end for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Too many commas in name 1 of "Breesem, J. S., Heckerman, D., and Kadie, C." for entry Breese-Heckerman-Kadie
+while executing---line 3229 of file ACM-Reference-Format.bst
+Warning--no number and no volume in Breese-Heckerman-Kadie
+You've used 3 entries,
             5758 wiz_defined-function locations,
-            1317 strings with 15407 characters,
-and the built_in function-call counts, 916 in all, are:
-= -- 82
-> -- 21
+            1326 strings with 15842 characters,
+and the built_in function-call counts, 4213 in all, are:
+= -- 603
+> -- 76
 < -- 0
-+ -- 6
-- -- 8
-* -- 62
-:= -- 100
-add.period$ -- 5
-call.type$ -- 1
-change.case$ -- 6
-chr.to.int$ -- 1
-cite$ -- 2
-duplicate$ -- 87
-empty$ -- 63
-format.name$ -- 8
-if$ -- 180
++ -- 24
+- -- 93
+* -- 273
+:= -- 352
+add.period$ -- 15
+call.type$ -- 3
+change.case$ -- 16
+chr.to.int$ -- 3
+cite$ -- 17
+duplicate$ -- 302
+empty$ -- 220
+format.name$ -- 40
+if$ -- 980
 int.to.chr$ -- 1
 int.to.str$ -- 0
-missing$ -- 1
-newline$ -- 50
-num.names$ -- 9
-pop$ -- 34
+missing$ -- 8
+newline$ -- 68
+num.names$ -- 16
+pop$ -- 119
 preamble$ -- 1
-purify$ -- 14
+purify$ -- 43
 quote$ -- 0
-skip$ -- 21
+skip$ -- 103
 stack$ -- 0
-substring$ -- 64
-swap$ -- 6
-text.length$ -- 0
+substring$ -- 496
+swap$ -- 29
+text.length$ -- 123
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 15
-warning$ -- 1
-while$ -- 8
+type$ -- 62
+warning$ -- 10
+while$ -- 23
 width$ -- 0
-write$ -- 59
-(There was 1 warning)
+write$ -- 94
+(There were 48 error messages)

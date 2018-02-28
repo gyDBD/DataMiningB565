@@ -37,18 +37,40 @@
 \providecommand\natexlab[1]{#1}
 \providecommand\showeprint[2][]{arXiv:#2}
 
-\bibitem[\protect\citeauthoryear{Editor}{Editor}{2007}]%
-        {editor00}
-\bibfield{editor}{\bibinfo{person}{Ian Editor}} (Ed.).
-  \bibinfo{year}{2007}\natexlab{}.
-\newblock \bibinfo{booktitle}{{\em The title of book one\/}
-  (\bibinfo{edition}{1st.} ed.)}. \bibinfo{series}{The name of the series one},
-  Vol.~\bibinfo{volume}{9}.
-\newblock \bibinfo{publisher}{University of Chicago Press},
-  \bibinfo{address}{Chicago}.
+\bibitem[\protect\citeauthoryear{??}{kag}{2017}]%
+        {kaggle-kkbox-challenge}
+ \bibinfo{year}{2017}\natexlab{}.
+\newblock \bibinfo{title}{WSDM - KKBox's Music Recommendation Challenge}.
+\newblock \bibinfo{howpublished}{Web}.   (\bibinfo{year}{2017}).
 \newblock
-\showDOI{%
-\url{https://doi.org/10.1007/3-540-09237-4}}
+\showURL{%
+\url{https://www.kaggle.com/c/kkbox-music-recommendation-challenge}}
+\newblock
+\shownote{Accessed: 2018-02-27.}
+
+
+\bibitem[\protect\citeauthoryear{Badrul and R.}{Badrul and R.}{2001}]%
+        {item-basd-cf}
+\bibfield{author}{\bibinfo{person}{George K. Joseph~K. Badrul, S.} {and}
+  \bibinfo{person}{John R.}} \bibinfo{year}{2001}\natexlab{}.
+\newblock \showarticletitle{{Item-Based Collaborative Filtering Recommendation
+  Algorithms}}.
+\newblock \bibinfo{journal}{{\em Proceedings of the 10th international
+  conference on World Wide Web\/}} (\bibinfo{year}{2001}),
+  \bibinfo{pages}{285--295}.
+\newblock
+
+
+\bibitem[\protect\citeauthoryear{Breesem and Kadie}{Breesem and Kadie}{1998}]%
+        {Breese-Heckerman-Kadie}
+\bibfield{author}{\bibinfo{person}{Heckerman~D. Breesem, J.~S.} {and}
+  \bibinfo{person}{C. Kadie}.} \bibinfo{year}{1998}\natexlab{}.
+\newblock \showarticletitle{{Empirical Analysis of Predictive Algorithms for
+  Collaborative Filtering}}.
+\newblock \bibinfo{journal}{{\em Proceddings of the 14th Conferences on
+  Uncertainty in Artificial Intelligence\/}} (\bibinfo{year}{1998}),
+  \bibinfo{pages}{43--52}.
+\newblock
 
 
 \end{thebibliography}
