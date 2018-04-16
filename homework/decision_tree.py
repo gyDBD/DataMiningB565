@@ -208,9 +208,9 @@ def main(argv):
    inputfile = ''
    type= ''
    try:
-      opts, args = getopt.getopt(argv,"hi:o:",["gini=","ifile="])
+      opts, args = getopt.getopt(argv,"hm:i:",["gini=","ifile="])
    except getopt.GetoptError:
-      print('DT.py -m <gini> -i <inputfile>')
+      print('DT.py -m <gini-i <inputfile>')
       sys.exit(2)
    for opt, arg in opts:
       if opt == '-h':
