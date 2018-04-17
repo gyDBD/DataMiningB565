@@ -1,9 +1,9 @@
-function centroids = initCentroids(X, K)
+function centroids = init_centroids(X, K)
     centroids = zeros(K,size(X,2)); 
     randidx = randperm(size(X,1));
     centroids = X(randidx(1:K), :);
 end
-function indices = getClosestCentroids(X, centroids)
+function indices = get_closest_centroids(X, centroids)
   K = size(centroids, 1);
   indices = zeros(size(X,1), 1);
   m = size(X,1);
@@ -21,7 +21,7 @@ function indices = getClosestCentroids(X, centroids)
     indices(i) = k;
   end
 end
-function centroids = computeCentroids(X, idx, K)
+function centroids = compute_centroids(X, idx, K)
 
   [m n] = size(X);
   centroids = zeros(K, n);
