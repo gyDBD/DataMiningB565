@@ -1,4 +1,4 @@
-function centroids = computeCentroids(X, idx, K)
+function centroids = compute_centroids(X, idx, K)
 
   [m n] = size(X);
   centroids = zeros(K, n);
