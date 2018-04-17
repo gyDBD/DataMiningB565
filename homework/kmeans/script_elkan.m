@@ -8,7 +8,7 @@ number = 0;
 numberDistance = 0;
 while (true) 
     number = number + 1;
-    s = getBetweenCentroids(centroids);
+    s = get_between_centroids(centroids);
     [indices,number2] = get_closest_centroids(X, centroids);
     numberDistance = numberDistance + number2;
     [newcentroids,number3] = getl(X,centroids,s,indices);
