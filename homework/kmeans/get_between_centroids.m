@@ -1,4 +1,4 @@
-function s = getBetweenCentroids(centroids)
+function s = get_between_centroids(centroids)
   K = size(centroids, 1);
   s = zeros(size(centroids,1), 1);
 
