@@ -3,15 +3,15 @@ T = A(:,:);
 X = table2array(T);
 K = 3;
 max_iterations = 10;
-centroids = initCentroids(X, K);
+centroids = init_centroids(X, K);
 
 numberIteration = 0;
 numberDistance = 0;
 while (true) 
     numberIteration = numberIteration + 1;
-    [indices,number2] = getClosestCentroids(X, centroids);
+    [indices,number2] = get_closest_centroids(X, centroids);
     numberDistance = numberDistance + number2;
-    newcentroids = computeCentroids(X, indices, K);
+    newcentroids = compute_centroids(X, indices, K);
     if (newcentroids == centroids) 
         break
     else 
