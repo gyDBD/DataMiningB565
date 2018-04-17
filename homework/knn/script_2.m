@@ -1,0 +1,12 @@
+mad1 = get_rate3(2,5);
+fprintf(' %d \n',mad1);
+mad1 = get_rate3(2,10);
+fprintf(' %d \n',mad1);
+mad1 = get_rate3(2,20);
+fprintf(' %d \n',mad1);
+mad1 = get_rate3(2,50);
+fprintf(' %d \n',mad1);
+mad1 = get_rate3(2,100);
+fprintf(' %d \n',mad1);
+mad1 = get_rate3(2,150);
+fprintf(' %d \n',mad1);
