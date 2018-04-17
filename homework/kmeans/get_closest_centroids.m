@@ -1,4 +1,4 @@
-function [indices,number] = getClosestCentroids(X, centroids)
+function [indices,number] = get_closest_centroids(X, centroids)
   K = size(centroids, 1);
   indices = zeros(size(X,1), 1);
   m = size(X,1);
